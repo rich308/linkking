@@ -50,7 +50,4 @@ In addition to the frontend and backend documentation, here are some additional 
 
 Feel free to explore the documentation and resources above to learn more about the project and its components.
 
-If you have any questions or need further assistance, please don't hesitate to reach out to the project maintainers via
-email at **letiendat1002@gmail.com**.
-
 **[⬆ Back to Top](#linkking)**
